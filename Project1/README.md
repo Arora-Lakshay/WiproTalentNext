@@ -1,6 +1,6 @@
 # How to Compile and Run Project1
 
-The folder `Project1` in the current directory is the root directory which contains the main package that contains the complete source code for this project.
+The folder `Project1` in the current directory is the main package that contains the complete source code for this project.
 
 NOTE - I'm not using any kind of IDE (such as Ecllipse or NetBeans).
 
@@ -14,7 +14,7 @@ The above commands will Compile whole package and generate Bytecode(.class files
 
 ## How to Run
 
-After the compilation, make sure you must be in the `Project1` root directory.
+After the compilation, make sure you must be in the same `Project1` root directory.
 Use the following commands in the terminal to generate the outputs.
 ### `$ java Project1\Project1 <EMP_ID>`
 
